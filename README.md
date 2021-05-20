@@ -1,16 +1,16 @@
-### Hi there 👋
+### Uga 👋, prazer sou Igor!
+#### Aqui é o lugar para me conhecer melhor
+Sou um entusiasta de desenvolvimento que se formou no CEFET-MG Varginha. Atualmente, estágio desenvolvendo uma plataforma para o CEFET, e nos meus tempos livres estudo ReactJs.
 
-<!--
-**Inguim/Inguim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: LARAVEL / REACT / ADONIS / NEXT (ainda conhecendo)
 
-Here are some ideas to get you started:
+- 🔭 Este é o projeto que estou trabalhando no momento: https://github.com/Inguim/Profet
+- 🌱 Estou me aprofundando em tudo que engloba ReactJs e suas lib's 
+- 📫 Pode me contatar por aqui: igorazevedost@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Inguim)  
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Inguim&show_icons=true)  
+
