@@ -1,6 +1,6 @@
 ### Uga 👋, prazer sou Igor!
 #### Aqui é o lugar para me conhecer melhor
-Sou um entusiasta de desenvolvimento que se formou no CEFET-MG Varginha. Atualmente, estágio desenvolvendo uma plataforma para o CEFET, e nos meus tempos livres estudo ReactJs.
+Sou um entusiasta de desenvolvimento que se formou no CEFET-MG Varginha. Atualmente, trabalho em uma empresa como desenvolvedor, e nos meus tempos livres estudo ReactJs.
 
 Skills: LARAVEL / REACT / ADONIS / NEXT (ainda conhecendo)
 
