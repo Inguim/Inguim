@@ -8,7 +8,7 @@ Sou um entusiasta de desenvolvimento que se formou no CEFET-MG Varginha. Atualme
 
 LARAVEL / REACT / ADONIS / NEXT (ainda conhecendo)
 
-- 🔭 Atualmente trabalho em um projeto de acesso privado
+- 🔭 Atualmente trabalho em um projeto de acesso privado como full stack
 - 🌱 Estou me aprofundando em tudo que engloba ReactJs e suas lib's 
 - 📫 Pode me contatar por aqui: igorazevedost@gmail.com 
 
