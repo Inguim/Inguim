@@ -13,5 +13,5 @@ LARAVEL / REACT / ADONIS / NEXT (ainda conhecendo)
 - 📫 Pode me contatar por aqui: igorazevedost@gmail.com 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Inguim&show_icons=true&theme=tokyonight&hide_title=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Inguim&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)  
 
