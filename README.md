@@ -4,7 +4,7 @@
 Sou um entusiasta de desenvolvimento que se formou no CEFET-MG Varginha. Atualmente, trabalho na empresa JA Alimentação como desenvolvedor, e nos meus tempos livres estudo desenvolvimento.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Inguim)
-<a href = "mailto:contato@igorazevedost@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@igorazevedost@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href = "https://www.linkedin.com/in/igor-azevedo-a301b2218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 LARAVEL / REACT / ADONIS / NEXT (ainda conhecendo)
 
