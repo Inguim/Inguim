@@ -1,5 +1,5 @@
 ### Uga :monkey_face:, sou Igor!
-> Clica na lanterna :flashlight:!!
+> Não custa nada clicar na lanterna
 #### Aqui é o lugar para me conhecer melhor
 Sou um entusiasta de desenvolvimento que se formou no CEFET-MG Varginha. Atualmente, trabalho na empresa JA Alimentação como desenvolvedor, e nos meus tempos livres estudo desenvolvimento.
 
