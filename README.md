@@ -6,7 +6,7 @@ Sou um entusiasta de desenvolvimento que se formou no CEFET-MG Varginha. Atualme
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Inguim)
 <a href = "mailto:contato@igorazevedost@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href = "https://www.linkedin.com/in/igor-azevedo-a301b2218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-LARAVEL / REACT / ADONIS / NEXT (ainda conhecendo)
+LARAVEL / REACTJS / ADONIS / NEXT (ainda conhecendo)
 
 - 🔭 Atualmente trabalho em um projeto de acesso privado como full stack
 - 🌱 Estou me aprofundando em tudo que engloba ReactJs e suas lib's 
