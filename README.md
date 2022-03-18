@@ -10,3 +10,6 @@ LARAVEL / REACTJS / ADONIS / NEXT (ainda conhecendo)
 - 🔭 Atualmente trabalho em um projeto de acesso privado como full stack
 - 🌱 Estou me aprofundando em tudo que engloba ReactJs e suas lib's 
 - 📫 Pode me contatar por aqui: igorazevedost@gmail.com 
+
+<!-- ## Github Stats -->
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Inguim&show_icons=true&theme=radical&count_private=true&include_all_commits=true) -->
