@@ -7,7 +7,7 @@ I'm graduated in Information Technology Technician, at CEFET-MG with main focus 
 
 LARAVEL / REACTJS / ADONIS / DJANGOREST / TYPESCRIPT / PHP / GOOGLE WORKSPACE API /
 
-- 🔭 Currently working in a private Web Aplication in SharkDev 
+- 🔭 Currently working in a private Web Aplication at SharkDev 
 - 🌱 Learning Game Development by my self in free time
 
 <!-- ## Github Stats -->
